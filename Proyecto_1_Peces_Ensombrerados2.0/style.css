@@ -1,6 +1,17 @@
-#header{
+@media (max-width: 767px) {
+    .pc{
+        display: none;
+    }
+}
+@media (min-width: 767px) {
+    .telefono{
+        display: none;
+    }
+}
+#header-telefono{
     padding: 2%;
     background-color: #006994;
+    display: inline-block:
 }
 #titulo{
     font-family: sans-serif;
