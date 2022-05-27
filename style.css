@@ -17,5 +17,6 @@ width: 100%;
     text-align: center;
 }
 .telefono{
-
+width: 100%;
+overflow: hidden;
 }
