@@ -9,11 +9,13 @@
     }
 }
 #header-telefono{
-    background-color: #006994;
-    padding: 2%;
+
 }
 #titulo{
     font-family: sans-serif;
     margin: auto;
     text-align: center;
+}
+.telefono{
+
 }
