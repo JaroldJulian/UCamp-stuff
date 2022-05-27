@@ -8,15 +8,3 @@
         display: none;
     }
 }
-#header-telefono{
-width: 100%;
-}
-#titulo{
-    font-family: sans-serif;
-    margin: auto;
-    text-align: center;
-}
-.telefono{
-width: 100%;
-overflow: hidden;
-}
